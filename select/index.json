@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "力をくれ",
+  "base_artist": "LEX",
+  "createdAt": "2025-12-04T13:22:13.184263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "力をくれ",
+      "artist": "LEX, ¥ellow Bucks",
+      "has_synced": false,
+      "path": "select/pl_01_力をくれ_LEX,_¥ellow_Bucks.txt"
+    }
+  ]
+}
