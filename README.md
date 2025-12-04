@@ -1,0 +1,59 @@
+# LEX – 力をくれ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ok
+Do you have plans 俺持つpencil
+神が与えし俺だけのpencil
+TVSでて 発言する
+この世界は今壊れている
+ジェラシー 甘噛み
+気にしてねーよ
+彼らはこう言う
+King of everything
+この脳細胞いまbreak でもf*ck
+I don't give a f*ck
+what you think 気にしてねー ah
+おかしいのは頭くらい hey
+頭がクラクラしてくる
+力をくれ
+力をくれ
+富士山 Japan
+力をくれ
+そのままさ そのままか
+俺らはいま勝つ 心から
+前をみろ 前をみろ
+後ろじゃなくて 前をみろ
+この脳細胞いまbreak でもf*ck
+I don't give a f*ck
+what you think 気にしてねー ah
+おかしいのは頭くらい hey
+頭がクラクラしてくる
+力をくれ
+力をくれ
+富士山 Japan
+力をくれ
+たまには出ないやる気
+出たと思ったらあくび
+揚げ足とるやつ無視
+付き合えんくだらねえBullshit
+あいつがやってんのは仕返しで
+オレがやってんのは見返し
+この違いわかるかお前に
+オレら結果で殺すKill them shit
+力をくれよこの瞬間
+抜け出したいんだよ悪循環
+ダイヤで埋めたこのCuban
+くれてやるから変われその順番
+Please give me your power
+頼らないPowder
+いちいち外野がうるせえBow wow
+Fujiyama Japan
+叫びなLouder
+足りねえよまだ
+力をくれ
+力をくれ
+富士山 Japan
+力をくれ
+```
